@@ -12,13 +12,4 @@ Automatically updates every second
 
 Simple and clean UI design
 
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/yourusername/simple-clock.git
-
-
-Open the index.html file in your browser.
-
 Enjoy your live digital clock!
